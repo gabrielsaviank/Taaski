@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an App that I built for remembering Rails core concepts.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version _2.7.3_
 
-* System dependencies
+* System dependencies _Scaffold_
 
 * Configuration
 
-* Database creation
+* Database _SqLite_
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
