@@ -10,7 +10,7 @@ Things you may want to cover:
 
 * Ruby version _2.7.3_
 
-* System dependencies NaN(yet)
+* System dependencies: Figaro, Mini_magic, Fog, Carrierwave
 
 * Configuration
 
